@@ -1,4 +1,4 @@
-Hi, I’m @Jawad-Khalil from Azad Jammu and Kashmir, Pakistan. Currently, I'm studying Industrial Mathematics (MSc) at TU Dortmund (Germany).
+Hi, I’m @Jawad-Khalil from Azad Jammu and Kashmir, Pakistan. Currently, I'm studying Industrial Mathematics.
 
 I did: 
 1. MSc in Mathematics from the University of Kotli Azad Jammu and Kashmir.
