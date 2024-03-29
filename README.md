@@ -1,12 +1,7 @@
-Hi, I’m @Jawad-Khalil from Azad Jammu and Kashmir, Pakistan. Currently, I'm studying Industrial Mathematics.
+Hi, I am @Jawad-Khalil from Azad Jammu and Kashmir, Pakistan. Currently, I am a student doing MSc.
 
-I did: 
-1. MSc in Mathematics from the University of Kotli Azad Jammu and Kashmir.
-2. BSc from Azad Jammu and Kashmir University, Muzaffarabad.
-3. MA in Teacher Education from Allama Iqbal Open University, Islamabad.
-4. Some courses including Data Analytics, Python programming language, Diploma in Information Technology, Basics of R, and SQL. 
-
-I’m interested in learning new things especially in the field of programming and mathematics to build my knowledge for my profession
+I am developing my skills in programming languages including Python, MATLAB, SQL, HTML, JavaScript, and CSS. 
+So, I am interested in learning new things especially in the field of Programming and Mathematics to build my knowledge for my interest and profession.
 
 One can reach me by Gmail: iamjawadkhalil@gmail.com
 
